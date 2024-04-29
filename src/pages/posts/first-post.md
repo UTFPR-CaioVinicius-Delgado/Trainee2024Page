@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 1st Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Aniversario
+description: Aniversario do Caio 2024
 pubDate: 2020-02-01T00:00:00Z
-imgSrc: '/assets/images/image-post7.jpeg'
+imgSrc: '/assets/images/aniversario.png'
 imgAlt: 'Image post 7'
 ---
 

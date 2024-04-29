@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 4th Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Um passa tempo das ferias
+description: Caio trabalhando na Tendtudo
 pubDate: 2020-02-04T00:00:00Z
-imgSrc: '/assets/images/image-post3.jpeg'
+imgSrc: '/assets/images/caiotendtudo.png'
 imgAlt: 'Image post 3'
 ---
 
