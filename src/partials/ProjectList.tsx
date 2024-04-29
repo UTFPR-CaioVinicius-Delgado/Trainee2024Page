@@ -10,16 +10,15 @@ const ProjectList = () => (
   <Section
     title={
       <>
-        Recent <GradientText>Projects</GradientText>
+        Meus <GradientText>Hobbies</GradientText>
       </>
     }
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Project 1"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="Jogar"
+        description="Pessoalmente, meu favorito, principalmente quando estou com amigos! 
+        Os jogos que mais costumamos jogar são: Lethal Company, Rocket League, Cuphead e de vez enquando Valorant."
         link="/"
         img={{
           src: '/assets/images/project-web-design.png',
@@ -27,40 +26,40 @@ const ProjectList = () => (
         }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.LIME}>Web design</Tags>
-            <Tags color={ColorTags.SKY}>Tailwind.css</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.EMERALD}>Terror</Tags>
+            <Tags color={ColorTags.LIME}>Engraçados</Tags>
+            <Tags color={ColorTags.SKY}>Competitivo</Tags>
           </>
         }
       />
       <Project
-        name="Project 2"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="Filmes"
+        description="Gosto bastante de assistir filmes também! Entre os meus gêneros preferidos estão
+        suspense(principalmente os que tem aquele plotzinho no final), ação, ficção e dependendo do tipo
+        terror. Da minha lista de preferidos posso citar: Tudo em Todo Lugar Ao Mesmo Tempo, Knifes Out,
+        Clube da Luta e os filmes da saga de Harry Potter"
         link="/"
         img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>Next.js</Tags>
-            <Tags color={ColorTags.EMERALD}>Blog</Tags>
-            <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
+            <Tags color={ColorTags.VIOLET}>Ação</Tags>
+            <Tags color={ColorTags.EMERALD}>Terror</Tags>
+            <Tags color={ColorTags.ROSE}>Fiicção</Tags>
           </>
         }
       />
       <Project
-        name="Project 3"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="Séries"
+        description="Na parte de séries eu curto uns estilos bem semelhantes aos da seção anterior, e 
+        entre as minhas preferidas posso citar Stranger Things, You, Desventuras em Série, Teen Wolf
+        (por favor não me julgue) e Brooklyn Nine-Nine."
         link="/"
         img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Suspense</Tags>
+            <Tags color={ColorTags.INDIGO}>Comédia</Tags>
+            <Tags color={ColorTags.ROSE}>Ficção</Tags>
           </>
         }
       />

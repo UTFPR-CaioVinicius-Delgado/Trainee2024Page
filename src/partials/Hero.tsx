@@ -10,20 +10,20 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Oii, meu nome é <GradientText>Caio</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Este site vai funcionar como um blog pessoal, aonde eu cito e descrevo meus hobbies {' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+            :D
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          Meu nome é Caio Vinícius Maciel Delgado, tenho 19 anos recém completados, {' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          e gosto muito de jogar, assistir filmes, séries e conversar!
         </>
       }
       avatar={
