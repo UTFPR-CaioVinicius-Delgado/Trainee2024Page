@@ -7,4 +7,3 @@ imgSrc: '/assets/images/caiotendtudo.png'
 imgAlt: 'Image post 3'
 ---
 
-Full typography example at [this page](../sixth-post/).

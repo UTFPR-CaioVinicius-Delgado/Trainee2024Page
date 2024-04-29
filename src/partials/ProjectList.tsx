@@ -21,7 +21,7 @@ const ProjectList = () => (
         Os jogos que mais costumamos jogar são: Lethal Company, Rocket League, Cuphead e de vez enquando Valorant."
         link="/"
         img={{
-          src: '/assets/images/controle.png',
+          src: '/public/assets/images/controle.png.png',
           alt: 'Project Web Design',
         }}
         category={
@@ -39,7 +39,7 @@ const ProjectList = () => (
         terror. Da minha lista de preferidos posso citar: Tudo em Todo Lugar Ao Mesmo Tempo, Knifes Out,
         Clube da Luta e os filmes da saga de Harry Potter"
         link="/"
-        img={{ src: '/assets/images/claquete.png', alt: 'Project Fire' }}
+        img={{ src: '/public/assets/images/claquete.png.png', alt: 'Project Fire' }}
         category={
           <>
             <Tags color={ColorTags.VIOLET}>Ação</Tags>
@@ -54,7 +54,7 @@ const ProjectList = () => (
         entre as minhas preferidas posso citar Stranger Things, You, Desventuras em Série, Teen Wolf
         (por favor não me julgue) e Brooklyn Nine-Nine."
         link="/"
-        img={{ src: '/assets/images/tvzinha.png', alt: 'Project Maps' }}
+        img={{ src: '/public/assets/images/tvzinha.png.png', alt: 'Project Maps' }}
         category={
           <>
             <Tags color={ColorTags.FUCHSIA}>Suspense</Tags>

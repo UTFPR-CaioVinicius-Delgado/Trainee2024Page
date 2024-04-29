@@ -6,5 +6,3 @@ pubDate: 2024-02-05T00:00:00Z
 imgSrc: '/assets/images/caiopaiaço.png'
 imgAlt: 'Image post 2'
 ---
-
-Full typography example at [this page](../sixth-post/).

@@ -7,4 +7,3 @@ imgSrc: '/assets/images/pingu.png'
 imgAlt: 'Image post 5'
 ---
 
-Full typography example at [this page](../sixth-post/).
